@@ -44,3 +44,4 @@ VoiceChatGPT - Telegram-бот, с помощью которого можно о
     ```
 ## Внешний вид сервиса
 ### Страница диалога с ботом в Telegram
+![image](https://github.com/rel1se/VoiceBotProject/assets/112700264/d48734c0-893f-4013-a1e1-1415795b26cf)
